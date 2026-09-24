@@ -1,0 +1,6 @@
+*.docx
+*.pdf
+.env
+*.tfstate*
+.terraform/
+input/
