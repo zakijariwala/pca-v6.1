@@ -43,7 +43,7 @@ Terse, mobile-friendly. Tables for comparisons. No em dashes. Active voice with 
 | Content | File | Rule |
 |---|---|---|
 | Teaching material | learn/<block>-<slug>.md | via /port, approved diff |
-| Public drills | drills/<block>.md | append-only, via /promote |
+| Public drills | drills/<block>.md | append-only, via /port or /promote |
 | Session drills | state repo staging/ | append-only |
 | Session record | state repo log/ | one file per session, never edited |
 | Learner state | state repo STATE.md | rewritten at /close, max 60 lines |
