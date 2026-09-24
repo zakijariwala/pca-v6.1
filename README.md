@@ -21,8 +21,8 @@ The repo ships a tutor setup: [CLAUDE.md](CLAUDE.md) sets the teaching rules, an
 |---|---|
 | `/start <block>` | Loads your state and the block, then runs a tutoring session |
 | `/close` | Writes a session log, stages new drills, updates your state |
-| `/port <block>` | Drafts a `learn/` file with facts checked against official docs |
-| `/promote <block>` | Moves reviewed drills into the public `drills/` file |
+| `/port <block> [drills]` | Drafts a `learn/` file and 10 public drills, with facts checked against official docs; `drills` alone adds drills to an existing lesson |
+| `/promote <block>` | Moves reviewed drills from your sessions into the public `drills/` file |
 
 Progress lives in a second, private repo that you create: `STATE.md`, `log/`, `staging/`. Open both repos in the same Claude Code session. Without the private repo, `/start` runs with a fresh state and saves nothing.
 
