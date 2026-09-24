@@ -372,4 +372,3 @@ Exam guide items no block contract names. No block was added; each gap lists the
 | Quality control measures | 6.5 | B13 |
 | Stakeholder, change, and team-readiness management; customer success | 4.2 | B16 (partial today) |
 | Software license implications (BYOL, sole-tenant licensing) | 1.4 | B14 (partial via B05 sole-tenant) |
-| Sustainability pillar in chunk tagging | WAF | templates/learn.md lists 5 pillars, not 6 |

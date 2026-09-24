@@ -1,7 +1,7 @@
 ---
 block: B00
 title:
-pillars: [security, reliability, cost, performance, operational-excellence]
+pillars: [security, reliability, cost, performance, operational-excellence, sustainability]
 exam_guide_refs: []
 last_verified: YYYY-MM-DD
 sources: []
